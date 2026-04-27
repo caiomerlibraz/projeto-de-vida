@@ -89,9 +89,13 @@ text-align: center;
 text-align: center;
 color: var(--verde);
 text-transform: uppercase;
-
-
 }
+style.css ( inserir o contador abaixo do código da aba-conteudo-titulo-secundario )
+.contador {
+font-size: 20px;
+text-align: center;
+}
+
 
 /*quando a largura mínima da tela for maior que 768px.*/
 @media screen and (min-width: 768px) {
